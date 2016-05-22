@@ -1,2 +1,0 @@
-
-stores database backup files.
